@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arul
 - 👀 I’m interested in Automation 
-- 🌱 I’m currently learning RestAssured
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 mail me Arul.profession@gmail.com
